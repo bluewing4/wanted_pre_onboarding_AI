@@ -1,4 +1,4 @@
-# wanted_pre_onboarding
+# Wanted_pre_onboarding
 원티드 프리온보딩 AI/ML 코스 선발 과제
 # 수강생 선발과제 가이드라인_AIB
 
