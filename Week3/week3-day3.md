@@ -1,7 +1,7 @@
 # 3일차 p****aper 정리****
 
 # **Attention Is All You Need**
-
+본파일 : https://second-chanter-c94.notion.site/3-paper-63b6afe6c52b4efca9218d7f09ce5c5c
 - **Abstract**
     1. 다른모델의 문제점
         
