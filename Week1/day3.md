@@ -1,3 +1,4 @@
+본파일 : https://second-chanter-c94.notion.site/3-NLG-7905961939344a2aa4e8028816231d20
 ### 1. Paperswithcode에서 NLG extractive summarization task에 대해서 본인 블로그에 정리해보세요. 아래 3가지 항목에 대해서 정리하세요. (각 항목 고려 사항 참고)
 
 > 🔗Paperswithcode([https://paperswithcode.com/area/natural-language-processing](https://paperswithcode.com/area/natural-language-processing))
