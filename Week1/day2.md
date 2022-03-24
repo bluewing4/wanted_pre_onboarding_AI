@@ -1,3 +1,4 @@
+본파일 : https://second-chanter-c94.notion.site/2-NLU-9d52d45fea8a4faca9b45016c529733c
 ### 1. Paperswithcode에서 NLU sub task 중 하나를 선택하여 본인 블로그에 정리해보세요. 아래 3가지 항목에 대해서 정리하세요. (각 항목 고려 사항 참고)
 
 > 🔗Paperswithcode([https://paperswithcode.com/task/natural-language-understanding](https://paperswithcode.com/task/natural-language-understanding))
